@@ -10,8 +10,7 @@
     "desktopCapture",
     "downloads",
     "tabs",
-    "activeTab",
-    "clipboardWrite"
+    "activeTab"
   ],
   "action": {
     "default_title": "Take a Screenshot"
@@ -21,11 +20,5 @@
     "32": "/images/logo32.png",
     "48": "/images/logo48.png",
     "128": "/images/logo128.png"
-  },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["content_script.js"]
-    }
-  ]
+  }
 }
