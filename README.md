@@ -12,7 +12,7 @@ The screenshot extension is a chrome extension that allows users to quickly take
  
  <h3>Is it on the Chrome Webstore?</h3>
 
-> Screenshot extension is on the chrome web store at https://chrome.google.com/webstore/detail/screenshot-extension/lpkapgobaabgnefcidneeldbhdeeanpb/related.  
+> Screenshot extension is on the chrome web store at https://chrome.google.com/webstore/detail/screenshot-extension/lpkapgobaabgnefcidneeldbhdeeanpb/overview.  
 
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
